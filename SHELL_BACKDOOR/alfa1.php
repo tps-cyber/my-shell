@@ -2,7 +2,7 @@
 session_start();
 
 // ======== SET PASSWORD DI SINI ========
-define('ADMIN_PASSWORD', 'Semangat45');
+define('ADMIN_PASSWORD', 'tps_cyber123');
 // ======================================
 
 // Jika belum login, tampilkan form login
